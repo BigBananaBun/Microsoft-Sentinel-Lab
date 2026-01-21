@@ -1,26 +1,24 @@
-# Microsoft Sentinel/Azzure Home Lab
+# Microsoft Sentinel/Azure Home Lab
 
 ## Objective
 
-When I worked as a Data Center Tech and I deployed servers for clients, I noticed that right after I installed the OS and got the network working, there wer always several failed login attempts from attackers trying to brute force into the server.  With this project, I wanted to create a Honey Pot using Azzure and Log the failed logon attempts using Sentinel
+When I worked as a Data Center Tech and I deployed servers for clients, I noticed that right after I installed the OS and got the network working, there were always several failed login attempts from attackers trying to brute force into the server.  With this project, I wanted to create a Honey Pot using Azzure and Log the failed logon attempts using Sentinel.
 
 ### Skills Learned
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Deploying VM's in Microsoft Azure.
+- Forwarding Logs to the Microsoft Sentinel SIEM.
+- Creating and modifying firewall rules.
+- Using KQL to query specific log entries.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Microsoft Azure
+- Microsoft Sentinel
+- Windows Defender Firewall
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+
 
 Every screenshot should have some text explaining what the screenshot is about.
 
