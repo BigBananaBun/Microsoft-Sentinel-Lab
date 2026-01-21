@@ -1,12 +1,10 @@
-# Microsoft Sentinel Home Lab
+# Microsoft Sentinel/Azzure Home Lab
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+When I worked as a Data Center Tech and I deployed servers for clients, I noticed that right after I installed the OS and got the network working, there wer always several failed login attempts from attackers trying to brute force into the server.  With this project, I wanted to create a Honey Pot using Azzure and Log the failed logon attempts using Sentinel
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
 - Advanced understanding of SIEM concepts and practical application.
 - Proficiency in analyzing and interpreting network logs.
