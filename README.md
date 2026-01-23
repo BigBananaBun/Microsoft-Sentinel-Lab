@@ -1,4 +1,4 @@
-# Microsoft Sentinel/Azure Home Lab
+# Microsoft Sentinel/Azure Project
 
 ## Objective
 
