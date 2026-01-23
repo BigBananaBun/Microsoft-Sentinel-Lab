@@ -26,7 +26,7 @@ I kept it pretty simple for this project. I created one Windows 10 VM with almos
 
 <img width="1030" height="510" alt="Screenshot 2026-01-21 134802" src="https://github.com/user-attachments/assets/17dbbfc2-fab9-43d5-a414-7442ab147897" />
 
-I created a rule in the cloud firewall to allow any traffic and I completely turned of the Windows host firewall.
+I created a rule in the cloud firewall to allow any traffic and I completely turned off the Windows host firewall.
 
 *Cloud Firewall Rule*
 
